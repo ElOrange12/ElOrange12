@@ -12,12 +12,12 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=github_dark)
+
 ---
 
 ### 📊 Mis estadísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=github_dark)
 
 ---
 ✉️ **Contacto:** [Correo](mailto:tucorreo@example.com) | [LinkedIn](https://linkedin.com/in/TU_USUARIO)
