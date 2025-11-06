@@ -16,7 +16,7 @@
 ---
 
 ### 📊 Mis estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=radical)
 
 ---
 
