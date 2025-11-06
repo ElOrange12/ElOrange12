@@ -8,4 +8,4 @@ Soy estudiante y desarrollador en formación. Me gusta Python 🐍, MySQL 💾 y
 - Linux (Ubuntu)
 
 ## 📈 Mis estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=radical)
