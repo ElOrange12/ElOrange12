@@ -1,24 +1,23 @@
-Dani 
+# 🍊 ¡Hey! Soy Naranjito (Dani Oliveira Vidal) 👋
 
-💻 Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes.  
-🎯 Enfocado en seguir aprendiendo y creando proyectos con buenas prácticas y organización.
+💬 Me gusta programar cosas pequeñas pero potentes.  
+🌱 Aprendiendo día a día y jugando con código.  
+⚙️ Creo en la idea de que *“si se puede imaginar, se puede programar”*.
 
 ---
 
-### 🧠 Tecnologías que uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=github_dark)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+### 🎨 Mis lenguajes favoritos
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-gray?style=flat-square&logo=database)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 ---
 
 ### 📊 Mis estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
 
 ---
-✉️ **Contacto:** [Correo](mailto:danieloliveiravidal12@gmail.com) | [LinkedIn](https://linkedin.com/in/TU_USUARIO)
 
+⭐ *"Code, coffee and creativity."*
