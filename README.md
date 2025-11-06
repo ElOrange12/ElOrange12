@@ -1,12 +1,12 @@
 Dani 
 
-⌨ Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes. ⌨ 
+💻 Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes. 
 
 > Enfocado en seguir aprendiendo y creando proyectos con buenas prácticas y organización.
 
 ---
 
-### ⚙ Lenguajes que uso
+### ⚙️ Lenguajes que uso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=codeSTACKr)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,9 +17,9 @@ Dani
 
 ---
 
-### ▓ Mis estadísticas
+### 📊 Mis estadísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=codeSTACKr)
 
 ---
-✉ **Contacto:** [Correo](mailto:danieloliveiravidal12@gmail.com) | [Correo Administrativo](mailto:daniel.oliveira.vidal@alu.ceacfp.es) | [LinkedIn](https://linkedin.com/in/TU_USUARIO) 
+✉️ **Contacto:** [Correo](mailto:danieloliveiravidal12@gmail.com) | [Correo Administrativo](mailto:daniel.oliveira.vidal@alu.ceacfp.es) | [LinkedIn](https://linkedin.com/in/TU_USUARIO) 
 
