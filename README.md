@@ -17,7 +17,8 @@ Dani
 ---
 
 ### 📊 Mis estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=github_dark) ![Streak](https://streak-stats.demolab.com?user=ElOrange12&theme=tokyonight)
+
 
 ---
 ✉️ **Contacto:** [Correo](mailto:danieloliveiravidal12@gmail.com) | [LinkedIn](https://linkedin.com/in/TU_USUARIO)
