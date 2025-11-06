@@ -15,8 +15,8 @@
 ---
 
 ### 📊 Mis estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=github_dark)
 
 ---
 ✉️ **Contacto:** [Correo](mailto:tucorreo@example.com) | [LinkedIn](https://linkedin.com/in/TU_USUARIO)
