@@ -17,7 +17,8 @@ Dani
 ---
 
 ### 📊 Mis estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=codeSTACKr)
+
 ---
 ✉️ **Contacto:** [Correo](mailto:danieloliveiravidal12@gmail.com) | [Correo Administrativo](mailto:daniel.oliveira.vidal@alu.ceacfp.es) | [LinkedIn](https://linkedin.com/in/TU_USUARIO) 
 
