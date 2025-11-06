@@ -6,7 +6,7 @@ Dani
 ---
 
 ### 🧠 Lenguajes que uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=codeSTACKr)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
