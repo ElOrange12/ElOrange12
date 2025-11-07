@@ -1,4 +1,8 @@
-Dani 
+<p align="center">
+  <img src="./images/Narangito fondo.png" alt="Banner de Dani Oliveira Vidal" width="100%">
+</p>
+
+# Dani 
 
 💻 Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes. 
 
