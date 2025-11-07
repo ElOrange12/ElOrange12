@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Imagenes/Banner Orange12.png" alt="Banner de Dani Oliveira Vidal" width="100%">
+  <img src="./Imagenes/Banner ElOrange12.png" alt="Banner de Dani Oliveira Vidal" width="100%">
 </p>
 
 # Dani 
