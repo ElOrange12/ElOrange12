@@ -4,9 +4,9 @@
 
 # Dani 
 
-💻 Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes. 
+### 💻 Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes. 
 
-> Enfocado en seguir aprendiendo y creando proyectos con buenas prácticas y organización.
+#### Enfocado en seguir aprendiendo y creando proyectos con buenas prácticas y organización.
 
 ---
 
