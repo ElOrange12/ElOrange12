@@ -2,7 +2,7 @@
   <img src="./Imagenes/Banner ElOrange12.png" alt="Banner de Dani Oliveira Vidal" width="100%">
 </p>
 
-<h1 align="center"> 🍊 D A N I E L    O L I V E I R A  ·  V I D A L 🍊</h1>
+<h1 align="center"> 🍊 D A N I E L  ·  O L I V E I R A  ·  V I D A L 🍊</h1>
 
 <h3 align="center"> Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes. </h3>
 
