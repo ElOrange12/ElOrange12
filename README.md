@@ -2,11 +2,11 @@
   <img src="./Imagenes/Banner ElOrange12.png" alt="Banner de Dani Oliveira Vidal" width="100%">
 </p>
 
-# Dani 
+<h1 align="cente"> Dani </h1> 
 
-<h3 align="center">💻 Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes. </h3>
+<h3 align="center"> Desarrollador en formación apasionado por la tecnología, la automatización y el diseño de soluciones eficientes. </h3>
 
-#### Enfocado en seguir aprendiendo y creando proyectos con buenas prácticas y organización.
+<h4 align="center"> Enfocado en seguir aprendiendo y creando proyectos con buenas prácticas y organización. </h4>
 
 ---
 
