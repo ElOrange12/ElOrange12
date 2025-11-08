@@ -6,7 +6,7 @@
 
 <h1 align="center"> 🍊 D A N I E L  ·  O L I V E I R A  ·  V I D A L 🍊</h1>
 
-<h3 align="center"> Desenrotllador en formació apassionat per la tecnologia, l'automatització i el disseny de solucions eficients. </h3>
+<h3 align="center"> Desenvolupador en formació apassionat per la tecnologia, l'automatització i el disseny de solucions eficients. </h3>
 
 <h4 align="center"> Enfocat a continuar aprenent i creant projectes amb bones pràctiques i organització. </h4>
 
