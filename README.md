@@ -24,5 +24,4 @@
 </p>
 
 ---
-✉️ **Contacte:** [Correu](mailto:danieloliveiravidal12@gmail.com) | [Correu Administratiu](mailto:daniel.oliveira.vidal@alu.ceacfp.es) |  
-
+✉️ **Contacte:** [Correu](mailto:danieloliveiravidal12@gmail.com) | [Correu Administratiu](mailto:daniel.oliveira.vidal@alu.ceacfp.es) |
