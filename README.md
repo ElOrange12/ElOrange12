@@ -18,7 +18,7 @@
 ---
 
 ### 📊 Les meues estadístiques
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=codeSTACKr&border_radius=15" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=codeSTACKr&border_radius=15" height="170"/>
 </p>
