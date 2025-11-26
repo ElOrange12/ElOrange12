@@ -25,5 +25,3 @@
 
 ---
 ✉️ **Contacte:** [Correu](mailto:danieloliveiravidal12@gmail.com) | [Correu Administratiu](mailto:daniel.oliveira.vidal@alu.ceacfp.es) | [LinkedIn](https://linkedin.com/in/daniel-oliveira-vidal)
-
-)
