@@ -23,10 +23,5 @@
   <img src="https://estadisticas-indol.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=codeSTACKr" height="165" alt="Lenguajes" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ElOrange12&show_icons=true&theme=codeSTACKr&border_radius=15" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElOrange12&layout=compact&theme=codeSTACKr&border_radius=15" height="170"/>
-</p>
-
 ---
 ✉️ **Contacte:** [Correu](mailto:danieloliveiravidal12@gmail.com) | [Correu Administratiu](mailto:daniel.oliveira.vidal@alu.ceacfp.es) | [LinkedIn](https://linkedin.com/in/daniel-oliveira-vidal)
